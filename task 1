@@ -1,0 +1,61 @@
+TASK 1:
+
+Aim: To design a test case template for login page validation.
+Test case-1:
+-------------------------------------------------------------------------------------------------------------------------------------
+                                    Project Name : Predicting Boat Accidents
+-------------------------------------------------------------------------------------------------------------------------------------
+Test case Id : ID_1       	                                                                Test Designed By : Kundana 
+Test Priority :high                                                                         Test Designed Date : 01-12-2020
+Module Name : Danger Zones Page                                                             Test Executed By : Kundana
+Test Title : Verifying Danger Zones
+Test Executed Date:01-12-2020
+Description : Testing Danger Zones Page
+-------------------------------------------------------------------------------------------------------------------------------------
+Pre Conditions: User should provide location details
+-------------------------------------------------------------------------------------------------------------------------------------
+Stage	    Test Steps	      Test Data	      Expected Result	      Actual Result	      Status(Pass/Fail)	      Remarks
+-------------------------------------------------------------------------------------------------------------------------------------
+1	        Verify Danger   	Location:       Nearby danger         Nearby danger           Pass                  Nil
+          Zones Page        Vijayawada      zones are             zones are
+                                            displayed 	          displayed	
+2	        Browse 
+          locations 
+          details					
+3	        Upload 
+          location 
+          details
+-------------------------------------------------------------------------------------------------------------------------------------
+Post Conditions :Danger zones based on location are verified successfully
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
+Test Case-2:
+-------------------------------------------------------------------------------------------------------------------------------------
+                                      Project Name :Predicting Boat Accidents
+-------------------------------------------------------------------------------------------------------------------------------------
+Test case Id : ID_2       	                                                                   Test Designed By : Kundana 
+Test Priority :low                                                                             Test Designed Date : 01-12-2020
+Module Name : Feedback Page                                                                    Test Executed By : Kundana
+Test Title : Verifying  Feedback Page 
+Test Executed Date:01-12-2020
+Description : Testing  Feedback Page
+-------------------------------------------------------------------------------------------------------------------------------------
+Pre Conditions: User should provide login details and feedback
+-------------------------------------------------------------------------------------------------------------------------------------
+Stage	     Test Steps          	Test Data	         Expected Result	      Actual Result	          Status(Pass/Fail)	    Remarks
+-------------------------------------------------------------------------------------------------------------------------------------
+1	         Verify Feedback    	User Name:         User navigated to      User navigated                Pass               Nil
+           Page                 leela              next page display      to next page               
+                                Password:          -ing feedback is       displaying feedback
+                                Abc@123            submitted              is submitted
+                                Feedback:          successfully           successfully
+                                Need to be more 
+                                user friendly
+2	         Provide 
+           login details					
+3	         Upload feedback 
+           and submit	
+-------------------------------------------------------------------------------------------------------------------------------------
+Post Conditions :Feedback Page is  verified successfully
+-------------------------------------------------------------------------------------------------------------------------------------
