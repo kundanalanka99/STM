@@ -43,9 +43,9 @@ Description : Testing  Feedback Page
 -------------------------------------------------------------------------------------------------------------------------------------
 Pre Conditions: User should provide login details and feedback
 -------------------------------------------------------------------------------------------------------------------------------------
-Stage	     Test Steps          	Test Data	         Expected Result	      Actual Result	          Status(Pass/Fail)	    Remarks
+Stage	     Test Steps          	Test Data	         Expected Result	      Actual Result	         Status(Pass/Fail)	   Remarks
 -------------------------------------------------------------------------------------------------------------------------------------
-1	         Verify Feedback    	User Name:         User navigated to      User navigated                Pass               Nil
+1	         Verify Feedback    	User Name:         User navigated to      User navigated              Pass               Nil
            Page                 leela              next page display      to next page               
                                 Password:          -ing feedback is       displaying feedback
                                 Abc@123            submitted              is submitted
